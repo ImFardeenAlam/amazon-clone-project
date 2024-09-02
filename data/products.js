@@ -656,5 +656,38 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "81LPwvQLXJL-AC-SX500",
+    image: "images/products/crocs.jpg",
+    name: "Crocs Unisex-Adult Classic Clogs",
+    rating: {
+      stars: 4.5,
+      count: 8734
+    },
+    priceCents: 3495,
+    keywords: [
+      "Men",
+      "Shoes",
+      "Mules",
+      "Clogs"
+    ]
+  },
+  {
+    id: "718RbhzhVbL-AC-SY450",
+    image: "images/products/waterbottle.jpg",
+    name: "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel",
+    rating: {
+      stars: 4,
+      count: 2345
+    },
+    priceCents: 2794,
+    keywords: [
+      "Thermoses",
+      "Insulated Beverage Containers",
+      "Storage & Organizations",
+      "Kitchen & Dining"
+    ]
   }
+
 ];
