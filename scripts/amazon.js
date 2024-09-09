@@ -95,3 +95,4 @@ document.querySelectorAll('.js-add-to-cart')
       addToCartTimeouts[productId] = timeoutId;
       });
     });
+    updateCartQuantity();
