@@ -1,6 +1,6 @@
 import { validDeliveryOption } from "./deliveryOptions.js";
 
-class Cart {
+export class Cart {
   cartItems;
   #localStorageKey;
 
